@@ -1,7 +1,7 @@
 # Pacman-Exercise
-## This is a movement and visual correspondence exercise for MIT Frontend Development course.  
+## This is a movement and visual correspondence exercise for MIT Frontend Development course. I wanted to make it unique by adding a pulsing eye as Pacman moves and having a unique orange tint.
 
-Future Improvements: This form is a demonstration using one of the largest libraries for forms via Formik. Future improvements will be to utilize further Formik features through more extensive applications into web-based forms for capturing input user data and seemless user interfaces.
+Future Improvements: Future improvements include adding gradients and the ability to add and delete pacmen.  Another future improvement will being able to add the ability to have users pick the colors of the eye.
 
 To Run: Copy and Run the application | NPM Install, including imports | NPM Start to run | Open and view in web browser
 
